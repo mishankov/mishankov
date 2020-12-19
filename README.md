@@ -5,10 +5,10 @@
 👨‍💻 Building some **Python** stuff in my spare time
 
 ---
-[![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
 
 **[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module  that allows you to access files (`.json` for example and more) like they are Python modules
-  - Available at [PyPI](https://pypi.org/project/crazyimports/)
+
+[![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
 
 ---
 
