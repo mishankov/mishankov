@@ -4,6 +4,8 @@
 
 👨‍💻 Building some **Python** stuff in my spare time
 
+🤔 Interested in process automation and CI/CD
+
 ---
 
 **[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module  that allows you to access files (`.json` for example and more) like they are Python modules
