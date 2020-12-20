@@ -8,15 +8,15 @@
 
 **[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module  that allows you to access files (`.json` for example and more) like they are Python modules
 
-[![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
-
 💻 *Python, GinHub Actions for CI/CD*
+
+[![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
 
 ---
 
 **[Pega Infinity SMA](https://github.com/mishankov/pega-infinity-sma)** - system management application for Pega Infinity
 
-💻 *Python, Django, Docker*
+💻 *Python, Pega API, Django, Docker*
 
 ---
 
