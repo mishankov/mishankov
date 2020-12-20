@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👨‍💼 Team lead of **Pega** squad in Alfa-Bank (Russia)
+👨‍💼 Team lead of **Pega** squad @ Alfa-Bank (Russia)
 
 👨‍💻 Building some **Python** stuff in my spare time
 
-🤔 Interested in process automation and CI/CD
+🤔 Interested in processes automation and CI/CD
 
 ---
 
