@@ -26,6 +26,8 @@
 
 💻 *Python, FasAPI, GitHub webhooks, Telegram Bot API, Docker*
 
+And there is [Nim clone](https://github.com/mishankov/github-push-events-telegram-bot-nim) of this repo if you into that sort of things
+
 ---
 
 📫 How to reach me: https://t.me/mishankov or email address in my profile
