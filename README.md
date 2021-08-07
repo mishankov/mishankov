@@ -30,7 +30,7 @@ And there is [Nim clone](https://github.com/mishankov/github-push-events-telegra
 
 ---
 
-📫 How to reach me: https://t.me/mishankov or email address in my profile
+📫 How to reach me: [https://t.me/mishankov](https://t.me/mishankov) or email address in my [profile](https://github.com/mishankov)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)
 
