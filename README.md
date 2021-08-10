@@ -28,9 +28,13 @@
 
 And there is [Nim clone](https://github.com/mishankov/github-push-events-telegram-bot-nim) of this repo if you into that sort of things
 
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)](https://github.com/anuraghazra/github-readme-stats) -->
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishankov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 📫 How to reach me: [https://t.me/mishankov](https://t.me/mishankov) or email address in my [profile](https://github.com/mishankov)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)
-
