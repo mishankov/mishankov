@@ -16,9 +16,9 @@
 
 ---
 
-**[Pega Infinity SMA](https://github.com/mishankov/pega-infinity-sma)** - system management application for Pega Infinity
+**[Pega Chrome Tools](https://github.com/mishankov/pega-chrome-tools)** - set of tools to help Pega developers packed in Chrome extension 
 
-💻 *Python, Pega API, Django, Docker*
+💻 *Typescript, Svelte, Chrome extensions*
 
 ---
 
