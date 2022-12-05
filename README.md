@@ -8,17 +8,17 @@
 
 ---
 
+**[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool 
+
+💻 *Svelte, Typescript, WebSockets, GitHub Actions for CI/CD*
+
+---
+
 **[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module  that allows you to access files (`.json` for example and more) like they are Python modules
 
 💻 *Python, GinHub Actions for CI/CD*
 
 [![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
-
----
-
-**[Pega Chrome Tools](https://github.com/mishankov/pega-chrome-tools)** - set of tools to help Pega developers packed in Chrome extension 
-
-💻 *Typescript, Svelte, Chrome extensions*
 
 ---
 
@@ -28,11 +28,9 @@
 
 And there is [Nim clone](https://github.com/mishankov/github-push-events-telegram-bot-nim) of this repo if you into that sort of things
 
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ---
 
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishankov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
