@@ -31,7 +31,7 @@ And there is [Nim clone](https://github.com/mishankov/github-push-events-telegra
 ---
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishankov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mishankov.vercel.app/api/top-langs/?username=mishankov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
