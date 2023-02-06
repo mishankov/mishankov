@@ -16,7 +16,7 @@
 
 **[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module  that allows you to access files (`.json` for example and more) like they are Python modules
 
-💻 *Python, GinHub Actions for CI/CD*
+💻 *Python, GitHub Actions for CI/CD*
 
 [![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
 
