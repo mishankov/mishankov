@@ -1,32 +1,32 @@
-### Hi there 👋
+## Hi there 👋
 
 👨‍💼 Team lead of **Pega** squad @ Alfa-Bank (Russia)
 
-👨‍💻 Building some **Python** stuff in my spare time
+👨‍💻 Building some **Python** and **JS/TS** stuff in my spare time
 
 🤔 Interested in processes automation and CI/CD
 
----
-
-**[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool 
-
-💻 *Svelte, Typescript, WebSockets, GitHub Actions for CI/CD*
+![GitHub User's stars](https://img.shields.io/github/stars/mishankov?style=social)
 
 ---
+### Python projects
+**[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module that allows you to access files (`.json` for example and more) like they are Python modules
 
-**[Crazy Imports](https://github.com/mishankov/crazy-imports)** - Python module  that allows you to access files (`.json` for example and more) like they are Python modules
-
-💻 *Python, GitHub Actions for CI/CD*
-
-[![PyPI](https://img.shields.io/pypi/v/crazyimports)](https://pypi.org/project/crazyimports/)
-
----
+**[Tipe](https://github.com/mishankov/tipe)** - Python module that implements analog of pipeline operator with typesafety
 
 **[GitHub push events Telegram bot](https://github.com/mishankov/github-push-events-telegram-bot)** - application that allows you to receive notifications about push events in GinHub repos in Telegram
 
-💻 *Python, FasAPI, GitHub webhooks, Telegram Bot API, Docker*
+---
+### JS/TS projects
+**[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool
 
-And there is [Nim clone](https://github.com/mishankov/github-push-events-telegram-bot-nim) of this repo if you into that sort of things
+**[Vite + Svelte + tRPC](https://github.com/mishankov/vite-svelte-trpc)** - Vite + Svelte + tRPC project template 
+
+---
+### Pega projects
+**[Pega simple installation kit](https://github.com/mishankov/pega-easy-install-kit)** - scripts and files one needs to quickly install Pega Platform for testing purposes
+
+**[Pega browser tools](https://github.com/mishankov/pega-browser-tools)** - extension aimed to improve developer experience for Firefox, Chrome and other Chromium based browsers
 
 ---
 
