@@ -14,7 +14,7 @@
 
 **[Tipe](https://github.com/mishankov/tipe)** - Python module that implements analog of pipeline operator with typesafety
 
-**[GitHub push events Telegram bot](https://github.com/mishankov/github-push-events-telegram-bot)** - application that allows you to receive notifications about push events in GinHub repos in Telegram
+**[GitHub push events Telegram bot](https://github.com/mishankov/github-push-events-telegram-bot)** - application that allows you to receive notifications about push events in GitHub repos in Telegram
 
 ---
 ### JS/TS projects
