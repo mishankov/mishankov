@@ -4,7 +4,7 @@
 
 👨‍💻 Building some **Python** and **JS/TS** stuff in my spare time
 
-🤔 Interested in processes automation and CI/CD
+🤔 Interested in DX and CI/CD
 
 ![GitHub User's stars](https://img.shields.io/github/stars/mishankov?style=social)
 
