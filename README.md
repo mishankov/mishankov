@@ -2,7 +2,7 @@
 
 👨‍💼 Team lead of **Pega** squad @ Alfa-Bank (Russia)
 
-👨‍💻 Building some **Python** and **JS/TS** stuff in my spare time
+👨‍💻 Building some **Python**, **JS/TS**, and **[Nim](https://nim-lang.org/)** stuff in my spare time
 
 🤔 Interested in DX and CI/CD
 
