@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍💼 Team lead of **Pega** squad @ Alfa-Bank (Russia)
+👨‍💼 System architect lead of **Pega** squad @ Alfa-Bank (Russia)
 
 👨‍💻 Building some **Python**, **JS/TS**, and **[Nim](https://nim-lang.org/)** stuff in my spare time
 
