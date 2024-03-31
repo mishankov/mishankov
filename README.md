@@ -18,6 +18,8 @@
 
 ---
 ### JS/TS projects
+**[String manipulator](https://github.com/mishankov/string-manipulator)** - no-code string manipulation tool ([link to app](https://mishankov.github.io/string-manipulator/))
+
 **[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool
 
 **[Vite + Svelte + tRPC](https://github.com/mishankov/vite-svelte-trpc)** - Vite + Svelte + tRPC project template 
