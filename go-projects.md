@@ -2,8 +2,9 @@
 
 Самые новые проекты сверху
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+### [Advent of Code 2024](https://github.com/mishankov/adventofcode2024)
 
+Решения первых 11 дней Advent of Code 2024 года
 
 ### [5 letters helper](https://github.com/mishankov/5-letters-helper)
 
