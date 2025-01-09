@@ -2,7 +2,7 @@
 
 Самые новые проекты сверху
 
-### <a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
 ### [5 letters helper](https://github.com/mishankov/5-letters-helper)
