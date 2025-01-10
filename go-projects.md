@@ -50,4 +50,4 @@
 
 > Golang
 
-Первый мини проект, написанный по заданиям с CodeCrafters - https://app.codecrafters.io/courses/grep
+Первый мини проект, написанный по [заданиям с CodeCrafters](https://app.codecrafters.io/courses/grep)
