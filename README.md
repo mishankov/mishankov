@@ -26,6 +26,10 @@
 ---
 ### Libraries
 
+**[Logman](https://github.com/mishankov/logman)** - Deeply configurable logging library for Go with no configuration required to start
+
+![Static Badge](https://img.shields.io/badge/golang-white?logo=go) 
+
 **[Tipe](https://github.com/mishankov/tipe)** - Python module that implements analog of pipeline operator with typesafety 
 
 ![Static Badge](https://img.shields.io/badge/python-white?logo=python)
