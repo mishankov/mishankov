@@ -2,7 +2,7 @@
 
 Самые новые проекты сверху
 
-### [Logman](https://github.com/mishankov/logman) (work in progress)
+### [Logman](https://github.com/mishankov/logman)
 
 > Golang, DI, TDD, Github Actions
 
