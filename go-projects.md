@@ -4,7 +4,7 @@
 
 ### [Logman](https://github.com/mishankov/logman)
 
-> Golang, DI, TDD, Github Actions
+> Golang, DI, TDD, golangci-lint, Github Actions
 
 Библиотека для логирования, предоставляющая возможность как использование без дополнительной настройки так и глубокую кастомизацию с помощью DI. Написана по методологии TDD, высокий процент покрытия тестами
 
