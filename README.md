@@ -58,6 +58,8 @@
 
 **[Vite + Svelte + tRPC](https://github.com/mishankov/vite-svelte-trpc)** - Vite + Svelte + tRPC project template 
 
+![Static Badge](https://img.shields.io/badge/svelte-white?logo=svelte)
+
 ---
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mishankov)](https://github.com/anuraghazra/github-readme-stats) -->
