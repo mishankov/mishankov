@@ -9,10 +9,10 @@
 ---
 ### Applications
 
+- 🕸️ **[ProxyMini](https://github.com/mishankov/proxymini)** - lightweight reverse proxy server 
 - 🔢 **[Simple system monitoring](https://github.com/mishankov/simple-system-monitor)** - web interface to monitor linux server resources 
 - 📖 **[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool 
 - 🤖 **[String manipulator](https://github.com/mishankov/string-manipulator)** - no-code string manipulation tool ([link to app](https://mishankov.github.io/string-manipulator/))
-- 🕸️ **[ProxyMini](https://github.com/mishankov/proxymini)** - lightweight reverse proxy server 
 
 ---
 ### Libraries
