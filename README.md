@@ -13,6 +13,7 @@
 - 🔢 **[Simple system monitoring](https://github.com/mishankov/simple-system-monitor)** - web interface to monitor linux server resources 
 - 📖 **[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool 
 - 🤖 **[String manipulator](https://github.com/mishankov/string-manipulator)** - no-code string manipulation tool ([link to app](https://mishankov.github.io/string-manipulator/))
+- 🌱 **[PlantUML Watch Server](https://github.com/mishankov/plantuml-watch-server)** - PlantUML server to see diagram changes live in a browser 
 
 ---
 ### Libraries
