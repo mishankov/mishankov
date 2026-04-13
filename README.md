@@ -14,6 +14,7 @@
 - 📖 **[Web-tail](https://github.com/mishankov/web-tail)** - web based log monitoring tool 
 - 🤖 **[String manipulator](https://github.com/mishankov/string-manipulator)** - no-code string manipulation tool ([link to app](https://mishankov.github.io/string-manipulator/))
 - 🌱 **[PlantUML Watch Server](https://github.com/mishankov/plantuml-watch-server)** - PlantUML server to see diagram changes live in a browser 
+- ⬆️ **[updtr](https://github.com/mishankov/updtr)** - Local-first CLI for detecting and applying dependency updates
 
 ---
 ### Libraries
